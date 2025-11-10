@@ -7,7 +7,7 @@ DOI: `10.3390/fi17010014`
 
 ---
 
-## 📋 Overview
+## Overview
 
 This project implements an unsupervised anomaly detection system to identify jamming attacks in 6G-enabled drone networks. The solution is designed to be lightweight and suitable for resource-constrained devices.
 
